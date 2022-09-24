@@ -9,11 +9,13 @@ Virtual Internship - Android Application Development Using Kotlin
      
     How use the application?
        1.Install Grocery Apk file
-       
+       <html>
+       <body>
        <p align="center">
        <img src="![App icon](https://user-images.githubusercontent.com/92967220/192102656-9028a71d-ca70-446c-851f-a54cf8787862.jpg)"width="350" title="App Icon">
-   
         </p>
+        </body>
+        </html
        2.Use Add button to add item 
        
 
